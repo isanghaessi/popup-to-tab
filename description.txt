@@ -1,0 +1,38 @@
+🇰🇷 한국어 버전 (Korean)
+제목: Popup to Tab: 자동 그룹화 및 탭 전환
+
+불필요하게 뜨는 팝업 창 때문에 작업 흐름이 끊기시나요?
+'Popup to Tab'은 모든 팝업 창을 즉시 깔끔한 탭으로 전환하여 브라우저 환경을 혁신합니다.
+
+✨ 주요 기능:
+1. 팝업의 탭 전환: 새로 열리는 모든 팝업 윈도우를 현재 창의 새 탭으로 자동 복제합니다.
+2. 지능형 그룹화: 현재 탭 그룹 내에서 팝업을 열면, 생성된 탭도 자동으로 같은 그룹에 포함됩니다.
+3. 원클릭 토글: 툴바 아이콘을 클릭하여 기능을 즉시 켜거나 끌 수 있습니다. (ON/OFF 뱃지 지원)
+4. 최적화된 성능: Manifest V3 기술을 사용하여 메모리 사용량을 최소화하고 빠르고 안정적으로 동작합니다.
+
+🚀 이런 분들께 추천합니다:
+- 여러 웹사이트를 서핑하며 창이 너무 많이 뜨는 것이 싫으신 분
+- 탭 그룹 기능을 즐겨 사용하며 작업 공간을 체계적으로 관리하고 싶으신 분
+- 팝업 창을 일일이 옮기거나 닫는 번거로움을 줄이고 싶으신 분
+
+지금 바로 설치하고 더 깨끗하고 집중력 있는 브라우징 환경을 경험해 보세요!
+
+
+🇺🇸 영어 버전 (English)
+Title: Popup to Tab: Auto-Group & Tabify
+
+Tired of cluttered popup windows breaking your focus?
+'Popup to Tab' revolutionizes your browsing experience by instantly converting popup windows into organized tabs.
+
+✨ Key Features:
+1. Instant Tabification: Automatically transforms new popup windows into new tabs within your current window.
+2. Smart Grouping Support: When a popup is triggered from within a tab group, the new tab is seamlessly added to that same group.
+3. Easy Toggle: Quickly enable or disable the feature with a single click on the toolbar icon. (Clear ON/OFF badge indicators)
+4. High Performance: Built on Manifest V3 for minimal resource usage and maximum stability.
+
+🚀 Perfect For:
+- Users who dislike managing multiple browser windows.
+- Productivity enthusiasts who use Tab Groups to keep their workspace tidy.
+- Anyone looking to streamline their web workflow and eliminate window clutter.
+
+Install now and experience a cleaner, more focused browsing environment!

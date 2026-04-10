@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Popup to Tab: Auto-Group & Tabify",
+  "short_name": "Pop-to-Tab",
+  "version": "1.3.0",
+  "description": "Automatically converts popup windows into organized tabs. Perfectly supports tab groups to keep your workspace clean and tidy.",
+  "author": "Your Name",
+  "permissions": [
+    "tabs",
+    "tabGroups",
+    "storage"
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Toggle Popup to Tab Function",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "minimum_chrome_version": "88"
+}
